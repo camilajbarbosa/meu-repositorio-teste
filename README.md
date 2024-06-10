@@ -2,4 +2,6 @@
 
 ## Objetivos da aula
 
-1. Criar um repositório local e adicionar no Github; [ ] 
+1. Criar um repositório local e adicionar no Github; [ X ] 
+
+2. Realizando alterações de teste para o repositório
